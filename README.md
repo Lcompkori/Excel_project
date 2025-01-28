@@ -7,3 +7,6 @@ Included documents is the worksheet, pivot tables and dashboard. Worksheet conta
 
 Cell Phone Plan: 
 Susan and Tim are looking to purchase cell phone plans. Organized data from 3 service providers and created a chart to show the best deal for the their specifications.
+
+Pet Adopting:
+Comparing pet adoption prices to determine whether it is more cost effective to adopt a dog or cat. Considering price of initial adoption, monthly and annual costs. 
